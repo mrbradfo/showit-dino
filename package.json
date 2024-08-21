@@ -1,0 +1,11 @@
+{
+  "name": "showit-dino",
+  "version": "1.0.0",
+  "description": "like the chrome dino game but with the showit robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matt",
+  "license": "ISC"
+}
